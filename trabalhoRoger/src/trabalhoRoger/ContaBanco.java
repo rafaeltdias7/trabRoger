@@ -95,6 +95,3 @@ package trabalhoRoger;
 	        }
 	    }
 	}
-
-	
-
