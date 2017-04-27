@@ -15,7 +15,7 @@ public class Conta {
 			return true;
 		}
 		else{
-			System.out.println("Valor invalido!");
+			System.out.println("Valor invalido");
 			return false;
 		}
 	}
@@ -30,7 +30,7 @@ public class Conta {
 				saldo -= valor1;
 				return true;
 			}else{
-				System.out.println("valor n valido");
+				System.out.println("valor nada valido");
 			}
 		}else{
 			System.out.println("saldo n insuficiente");
