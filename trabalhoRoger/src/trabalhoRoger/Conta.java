@@ -15,7 +15,7 @@ public class Conta {
 			return true;
 		}
 		else{
-			System.out.println("Valor inválido!");
+			System.out.println("Valor invalido!");
 			return false;
 		}
 	}
@@ -33,7 +33,7 @@ public class Conta {
 				System.out.println("valor n valido");
 			}
 		}else{
-			System.out.println("saldo insuficiente");
+			System.out.println("saldo nao insuficiente");
 		}
 		return false;
 	}
