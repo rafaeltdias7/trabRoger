@@ -8,7 +8,7 @@ public class ExConta {
 	public static void main(String[] args) {
 		Conta c1 = new Conta();
 		
-		 double valor1 = c1.lerDouble("Informe a quantidade a depositar: "); 
+		 double valor1 = c1.lerDouble("Informe a quantidadee a depositar: "); 
 		 c1.deposita(valor1);
 		 
 		 System.out.println(c1.getSaldo());
