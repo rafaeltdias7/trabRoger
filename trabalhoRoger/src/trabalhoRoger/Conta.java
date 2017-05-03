@@ -34,7 +34,7 @@ public class Conta {
 			}
 		}else{
 
-			System.out.println("saldo n inoutroSficiente");
+			System.out.println("saldo n suficiente");
 
 
 			
