@@ -33,7 +33,7 @@ public class Conta {
 				System.out.println("valor n valido");
 			}
 		}else{
-			System.out.println("saldo n inxxxxxxSxuficiente");
+			System.out.println("saldo n inxxxSxuficiente");
 		}
 		return false;
 	}
