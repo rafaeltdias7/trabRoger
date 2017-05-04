@@ -13,7 +13,7 @@ public class ExConta {
 		 
 		 System.out.println(c1.getSaldo());
 		 
-		 double valor2 = c1.lerDouble("Informe a q a sacar: ");
+		 double valor2 = c1.lerDouble("Informe a qqqqqq a sacar: ");
 		 c1.saca(valor2);
 		 
 		 System.out.println ("Saldo: ");
